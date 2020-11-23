@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hubges
 
 You can use the [editor on GitHub](https://github.com/IusupMagomedov/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
